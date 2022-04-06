@@ -1,6 +1,9 @@
 body {
-    background-color: darkgrey;
-
+    margin: 0;
+    padding: 0;
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1,
